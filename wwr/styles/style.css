@@ -108,13 +108,13 @@ h4 {
 }
 
 footer a {
-         color: #396E94; 
-         text-decoration: none;
+        color: #396E94; 
+        text-decoration: none;
 }
 
 footer p a:hover {
     color: #B79158;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 footer p {
