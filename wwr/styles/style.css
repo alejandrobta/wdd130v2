@@ -8,7 +8,6 @@
     margin: 0 auto
 }
 
-
 nav a {
     text-align: center; 
     color: #283738;
@@ -19,7 +18,6 @@ nav a {
 #hero-msg h1, #hero-msg h4, #hero-msg div{
     text-align: center; 
 }
-
 
 .button-box{
     text-align: center; 
